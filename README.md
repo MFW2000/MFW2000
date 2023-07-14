@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @MFW2000
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning to write code
-- 💞️ I’m looking to collaborate on smaller projects
-- 📫 How to reach me? Just send a message
+# MFW2000
+
+I'm just a random software engineer interested in making interesting applications of all kinds.
+
+## About Me
+- Speaks Dutch and English
+- Interested in contributing towards other projects
+- Interested in making useful and fun applications and libraries
+- Currently working towards a bachelor's degree in software engineering
