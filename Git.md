@@ -1,6 +1,6 @@
 # Git
 
-This document outlines various Git conventions to help maintain a consistent Git history.
+This document outlines various personal Git conventions to help maintain a consistent Git history.
 
 ## Git Rules
 
