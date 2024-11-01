@@ -31,3 +31,9 @@ Below are a few examples:
 - `bugfix/issue-342/button-overlap-form-on-mobile`
 - `hotfix/no-ref/registration-form-not-working`
 - `test/no-ref/refactor-components-with-atomic-design`
+
+### Pull requests
+
+A pull request should have a descriptive title that reflects the branch category.
+It should also include a description with bullet points outlining the most important changes.
+Finally, you should assign yourself to the pull request, at a minimum.
