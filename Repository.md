@@ -20,6 +20,10 @@ Various settings should be changed for each new repository.
 
 Wikis and Projects should be disabled unless they are actively used.
 
+### General -> Pull Requests
+
+Only squash merging should be enabled.
+
 ### Branches
 
 The repository should include both a `main` branch and a `develop` branch. For each branch, the following default settings should be adjusted:
