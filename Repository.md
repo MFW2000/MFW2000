@@ -22,7 +22,7 @@ Wikis and Projects should be disabled unless they are actively used.
 
 ### General -> Pull Requests
 
-Only squash merging should be enabled.
+Only squash merging should be enabled. Additionally, the default commit message should be set to the pull request title only.
 
 ### Branches
 
