@@ -19,11 +19,13 @@ A git branch should start with a category. Pick one of these: `feature`, `bugfix
 
 - `feature` is for adding, refactoring or removing a feature
 - `bugfix` is for fixing a bug
-- `hotfix` is for changing code with a temporary solution and/or without following the usual process (usually because of an emergency)
+- `hotfix` is for changing code with a temporary solution and/or without following the usual process
+   (usually because of an emergency)
 - `test` is for experimenting outside an issue/ticket
 
-After the category, there should be a `/` followed by the reference of the issue/ticket you are working on. If there's no reference, just add `no-ref`.
-After the reference, there should be another `/` followed by a description that sums up the purpose of this specific branch using kebab case.
+After the category, there should be a `/` followed by the reference of the issue/ticket you are working on.
+If there's no reference, just add `no-ref`. After the reference, there should be another `/` followed by a description
+that sums up the purpose of this specific branch using kebab case.
 
 Below are a few examples:
 
@@ -34,6 +36,9 @@ Below are a few examples:
 
 ### Pull requests
 
-A pull request should have a descriptive title that reflects the branch category.
-It should also include a description with bullet points outlining the most important changes.
-Finally, you should assign yourself to the pull request, at a minimum.
+A pull request should have a descriptive title that reflects the branch category. It should also include a description
+with bullet points outlining the most important changes. Finally, you should assign yourself to the pull request,
+at a minimum.
+
+While pull requests from the `feature` branch to the `develop` branch must use squash merging, pull requests from
+the `develop` branch to the `main` branch must use a merge commit in the following format: `Release vX.X.X`.
